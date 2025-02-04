@@ -64,9 +64,9 @@ To evaluate model performance, the following metrics are used:
 This project successfully demonstrates how **Machine Learning models** can be used for **stock market price prediction**. While traditional regression models provide a good starting point, **advanced deep learning techniques** and **real-time data processing** can further enhance accuracy.
 
 # Team Members
-### Abhimanyu Dinesan
-### Abinesh S
-### Diljaz R.S
-### Ganesh V
-### Mahattheesh K
-### Suresh S
+- Abhimanyu Dinesan
+- Abinesh S
+- Diljaz R.S
+- Ganesh V
+- Mahattheesh K
+- Suresh S
