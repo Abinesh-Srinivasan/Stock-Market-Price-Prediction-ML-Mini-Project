@@ -8,7 +8,7 @@ This project focuses on predicting the **next day's stock closing price** using 
 ## 📌 Workflow of the Project  
 
 ### **1. Data Collection**  
-- The dataset contains historical stock price data for **TCS**, including columns like **Date, Open, High, Low, Close, Volume, and Trades**.
+- The dataset contains historical stock price data for **TCS**, including columns like **Date, Open, High, Low, Close and Volume**.
 - Data is obtained from **Kaggle**.
 
 ### **2. Data Preprocessing**  
